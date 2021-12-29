@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1,Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1,Nueva Imagen
+http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
+#EXTINF:-1,Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1,CineAr
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1,El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Canal 7 Salta
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w706244824.m3u8
+#EXTINF:-1,Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1,America Tv
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1,Canal 9 Bs As
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ff6daf88-89e9-4f33-afd4-16b57ebee3af/3.m3u8
+#EXTINF:-1,Canal 13 Bs As
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+#EXTINF:-1,El Tres Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1,Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1098455948_b1264000_sleng.m3u8
+#EXTINF:-1,Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1098455948_b1864000_sleng.m3u8
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w965426589_b1828000_sleng.m3u8
+#EXTINF:-1,Argentinisima
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1,RT en español
+http://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1,DW LatinoAmerica
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Silence Tv
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,Retro Tv
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,La 100
+http://buecrplb01.cienradios.com.ar/la100.aac
+#EXTINF:-1,La Mitre
+http://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:-1,Radio Continental
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC
+#EXTINF:-1,Radio Rivadavia
+http://209.95.35.49:7012/stream
+#EXTINF:-1,Radio Nacional
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1,Radio 10
+https://s6.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:-1,Radio 2 Rosario
+http://radio2.radio.rosario3.com:8000
+#EXTINF:-1,FM Milenium Bs As
+http://108.59.9.147:8078/
+#EXTINF:-1,Radio File Bs As
+http://streamall.alsolnet.com:443/radiofile?
+#EXTINF:-1,FM Milenium Rosario
+http://23.111.184.195:8020/mileniumrosario.mp3
+#EXTINF:-1,Frecuencia Plus
+http://fmplus.radio.rosario3.com:8006/fmplus
+#EXTINF:-1,Radio Itapema
+https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/playlist.m3u8
+#EXTINF:-1,El Cafe del Mundo
+https://cloudstream2034.conectarhosting.com/8462/stream
+#EXTINF:-1,Radio Gaia
+http://sc-radiogaia.1.fm:10036
+#EXTINF:-1,181.FM Sensual World
+http://icyrelay.181.fm/181-sensual_128k.mp3
+#EXTINF:-1,181.FM Classical Guitar
+http://relay.181.fm:8020
+#EXTINF:-1,Relax Life
+http://pub0201.101.ru:8000/stream/trust/mp3/128/267?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE5MC41LjIuNzkiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvOTIuMC40NTE1LjEwNyBTYWZhcmlcLzUzNy4zNiIsInVpZF9jaGFubmVsIjoiMjY3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDczMTIwOH0.b6CAaIhCkbR-LdFfSy0QzlJ8fRhYu53nB5oFAY9B-rI
+#EXTINF:-1,Relax Gold
+http://pub0302.101.ru:8000/stream/trust/mp3/128/266?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE5MC41LjIuNzkiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvOTIuMC40NTE1LjEwNyBTYWZhcmlcLzUzNy4zNiIsInVpZF9jaGFubmVsIjoiMjY2IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDczMDQ2MH0.1hw-uJntFawQKhByMYO9yFjUC495KaEW894JFIV8zYU
+#EXTINF:-1,World
+http://gr02.cdnstream.com:8040
+#EXTINF:-1,Guitar Genius
+http://gr02.cdnstream.com:8020
+#EXTINF:-1,Piano Perfect
+http://gr02.cdnstream.com:8050
+#EXTINF:-1,Radio Latin Jazz
+http://listen.radionomy.com/JazzRadioLatinJazz
+#EXTINF:-1,Radio Caprice Meditation
+http://79.120.77.11:8002/meditation
+#EXTINF:-1,Radio Caprice Manouche
+http://79.120.77.11:8002/manouche
+#EXTINF:-1,Radio Caprice Guitar Jazz
+http://79.120.77.11:8002/guitarjazz
+#EXTINF:-1,Radio Caprice Classic Guitar
+http://213.141.131.10:8000/classguitar
+#EXTINF:-1,Radio Caprice Acoustic Guitar
+http://79.120.39.202:8000/acousticguitar
+#EXTINF:-1,Radio Caprice Ethno Jazz
+http://79.120.39.202:8000/ethnojazz
+#EXTINF:-1,Radio Caprice Bossanova
+http://79.111.14.76:8000/bossanova
+#EXTINF:-1,Radio Caprice Flamenco
+http://79.111.14.76:8000/flamenco
+#EXTINF:-1,Putumayo
+http://buecrplb01.cienradios.com.ar/833_Putumayo_32000.aac
+#EXTINF:-1,Clásica para Meditar
+http://buecrplb01.cienradios.com.ar/1002_Clasica_Para_Meditar_32000.aac
+#EXTINF:-1,Folklore
+http://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
+#EXTINF:-1,Rock Nacional
+http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+#EXTINF:-1,Costumbres Argentinas
+http://buecrplb01.cienradios.com.ar/1292_Costumbres_Argentinas_32000.aac
+#EXTINF:-1,Romántica 70's
+http://buecrplb01.cienradios.com.ar/628_Romantica_70_32000.aac
+#EXTINF:-1,Bossa Nova
+http://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+#EXTINF:-1,Jazz
+http://buecrplb01.cienradios.com.ar/681_Jazz_32000.aac
+#EXTINF:-1,Blend
+http://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
+#EXTINF:-1,Grandes del Rock
+http://buecrplb01.cienradios.com.ar/662_Grandes_Del_Rock_32000.aac
+#EXTINF:-1,Vinilo
+http://buecrplb01.cienradios.com.ar/1393_Vinilo_32000.aac?type=.flv
+#EXTINF:-1,Power Ballads
+http://buecrplb01.cienradios.com.ar/738_Power_Ballads_32000.aac
+#EXTINF:-1,Lentos
+http://buecrplb01.cienradios.com.ar/794_Lentos_32000.aac
+#EXTINF:-1,Rocktámbulo
+http://buecrplb01.cienradios.com.ar/1399_Rocktambulo_32000.aac
+#EXTINF:-1,Retromix
+http://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+#EXTINF:-1,70's Internacional
+http://buecrplb01.cienradios.com.ar/613_70_Internacional_32000.aac
+#EXTINF:-1,80's y 90's Internacional
+http://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+#EXTINF:-1,David Bowie y Art Rel
+http://buecrplb01.cienradios.com.ar/892_David_Bowie_y_Art_Rel_32000.aac
+#EXTINF:-1,Eric Clapton y Art Rel
+http://buecrplb01.cienradios.com.ar/879_Eric_Clapton_y_Art_Rel_32000.aac
+#EXTINF:-1,George Harrison y Art Rel
+http://buecrplb01.cienradios.com.ar/911_George_Harrison_y_Art_Rel_32000.aac
+#EXTINF:-1,John, Paul,George and Ringo y Art Rel
+http://buecrplb01.cienradios.com.ar/683_John_Paul_George_and_Ringo_32000.aac
+#EXTINF:-1,The Beatles y Art Rel
+http://buecrplb01.cienradios.com.ar/638_The_Beatles_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1,Queen y Art Rel
+http://buecrplb01.cienradios.com.ar/743_Queen_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1,Genesis y Art Rel
+http://buecrplb01.cienradios.com.ar/890_Genesis_y_Art_Rel_32000.aac
+#EXTINF:-1,Led Zeppelin y Art Rel
+http://buecrplb01.cienradios.com.ar/984_Led_Zeppelin_y_Art_Rel_32000.aac
+#EXTINF:-1,Pink Floyd y Art Rel
+http://buecrplb01.cienradios.com.ar/626_Pink_Floyd_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1,New Age
+http://buecrplb01.cienradios.com.ar/722_New_Age_32000.aac
+#EXTINF:-1,Reiki
+http://buecrplb01.cienradios.com.ar/761_Reiki_32000.aac
+#EXTINF:-1,Yoga
+http://buecrplb01.cienradios.com.ar/785_Yoga_32000.aac
+#EXTINF:-1,Relax y meditación
+http://buecrplb01.cienradios.com.ar/1074_Relax_y_Meditacion_32000.aac

@@ -6,17 +6,15 @@ http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
 #EXTINF:-1,Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,CineAr
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+http://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,Canal 7 Salta
-https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w706244824.m3u8
+http://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w706244824.m3u8
 #EXTINF:-1,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1,Canal 13 Bs As
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1,El Tres Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+http://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1,Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Canal 26
@@ -32,13 +30,13 @@ http://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1,DW LatinoAmerica
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Television Consciente
-https://cloud.fractalmedia.es/live300/hls/tvc/master.m3u8
+http://cloud.fractalmedia.es/live300/hls/tvc/master.m3u8
 #EXTINF:-1,RetroPlus Music 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+http://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,RetroPlus Music 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+http://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1,RetroPlus Tv 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+http://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1,Retro Tv
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,La 100

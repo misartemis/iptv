@@ -7,18 +7,12 @@ http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,CineAr
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1,El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w706244824.m3u8
 #EXTINF:-1,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1,America Tv
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-#EXTINF:-1,Canal 9 Bs As
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/ff6daf88-89e9-4f33-afd4-16b57ebee3af/3.m3u8
 #EXTINF:-1,Canal 13 Bs As
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1,El Tres Rosario

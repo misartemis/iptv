@@ -8,7 +8,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1,CineAr
 http://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,Canal 7 Salta
-http://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w706244824.m3u8
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w706244824.m3u8
 #EXTINF:-1,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,Canal 4 Jujuy
@@ -30,13 +30,13 @@ http://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1,DW LatinoAmerica
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Television Consciente
-http://cloud.fractalmedia.es/live300/hls/tvc/master.m3u8
+https://cloud.fractalmedia.es/live300/hls/tvc/master.m3u8
 #EXTINF:-1,RetroPlus Music 1
-http://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,RetroPlus Music 2
-http://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1,RetroPlus Tv 3
-http://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1,Retro Tv
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,La 100

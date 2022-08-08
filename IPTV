@@ -37,8 +37,14 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 http://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1,DW LatinoAmerica
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Silence Tv
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,Television Consciente
+http://cloud.fractalmedia.es/live300/hls/tvc/master.m3u8
+#EXTINF:-1,RetroPlus Music 1
+http://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1,RetroPlus Music 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1,RetroPlus Tv 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1,Retro Tv
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,La 100

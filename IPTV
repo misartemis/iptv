@@ -64,7 +64,7 @@ https://cloudstream2034.conectarhosting.com/8462/stream
 #EXTINF:-1,Radio Gaia
 http://sc-radiogaia.1.fm:10036
 #EXTINF:-1,1.FM Classic Rock
-http://prmstrm.1.fm:8000/crock
+http://prmstrm.1.fm:8000/crock.m3u
 #EXTINF:-1,1.FM Rock Classics
 http://prmstrm.1.fm:8000/rockclassics
 #EXTINF:-1,1.FM Blues

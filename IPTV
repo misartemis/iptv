@@ -64,13 +64,13 @@ https://cloudstream2034.conectarhosting.com/8462/stream
 #EXTINF:-1,Radio Gaia
 http://sc-radiogaia.1.fm:10036
 #EXTINF:-1,1FM Classic Rock
-https://prmstrm.1.fm:8000/crock
+http://prmstrm.1.fm:8000/crock
 #EXTINF:-1,1FM Rock Classics
-https://prmstrm.1.fm:8000/rockclassics
+http://prmstrm.1.fm:8000/rockclassics
 #EXTINF:-1,1FM Blues
-https://prmstrm.1.fm:8000/blues
+http://prmstrm.1.fm:8000/blues
 #EXTINF:-1,1FM Love Classics
-https://prmstrm.1.fm:8000/loveclassics
+http://prmstrm.1.fm:8000/loveclassics
 #EXTINF:-1,181.FM Sensual World
 http://icyrelay.181.fm/181-sensual_128k.mp3
 #EXTINF:-1,181.FM Classical Guitar

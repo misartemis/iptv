@@ -1,18 +1,14 @@
 ﻿#EXTM3U
 #EXTINF:-1,Garage
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1,Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1,Canal 13 Bs As
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
-#EXTINF:-1,El Tres Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1,Telefe Rosario
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Telefe
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1693704817~acl=%2f*~data=hdntl~hmac=69ee598a3cf57d1a7d55a5939e6d0eda3d36e13f121d24b5270062ba8f6e2add/master-mtlf1.m3u8
 #EXTINF:-1,Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1098455948_b1264000_sleng.m3u8
 #EXTINF:-1,Canal 26 HD

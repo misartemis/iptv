@@ -49,16 +49,10 @@ http://209.95.35.49:7012/stream
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
 #EXTINF:-1,Radio 10
 https://s6.stweb.tv/radio10/live/playlist.m3u8
-#EXTINF:-1,Radio 2 Rosario
-http://radio2.radio.rosario3.com:8000
 #EXTINF:-1,FM Milenium Bs As
 http://108.59.9.147:8078/
 #EXTINF:-1,Radio File Bs As
 http://streamall.alsolnet.com:443/radiofile?
-#EXTINF:-1,FM Milenium Rosario
-http://23.111.184.195:8020/mileniumrosario.mp3
-#EXTINF:-1,Frecuencia Plus
-http://fmplus.radio.rosario3.com:8006/fmplus
 #EXTINF:-1,Radio Itapema
 https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/playlist.m3u8
 #EXTINF:-1,El Cafe del Mundo
@@ -126,7 +120,17 @@ http://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
 #EXTINF:-1,Grandes del Rock
 http://buecrplb01.cienradios.com.ar/662_Grandes_Del_Rock_32000.aac
 #EXTINF:-1,Vinilo
-http://buecrplb01.cienradios.com.ar/1393_Vinilo_32000.aac?type=.flv
+http://buecrplb01.cienradios.com.ar/1393_Vinilo_32000.aac
+#EXTINF:-1,Trabajo con Rock
+http://buecrplb01.cienradios.com.ar/1355_Trabajo_con_Rock_32000.aac
+#EXTINF:-1,Estudio con Rock
+https://buecrplb01.cienradios.com.ar/1354_Estudio_con_Rock_32000.aac
+#EXTINF:-1,Del Cassette
+https://buecrplb01.cienradios.com.ar/1371_Del_Cassette_32000.aac
+#EXTINF:-1,Walkman
+https://buecrplb01.cienradios.com.ar/1397_Walkman_32000.aac
+#EXTINF:-1,Tarde de Mates
+https://buecrplb01.cienradios.com.ar/1375_Tarde_de_Mates_32000.aac
 #EXTINF:-1,Power Ballads
 http://buecrplb01.cienradios.com.ar/738_Power_Ballads_32000.aac
 #EXTINF:-1,Lentos

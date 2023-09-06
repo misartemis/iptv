@@ -97,24 +97,14 @@ http://79.111.14.76:8000/flamenco
 http://buecrplb01.cienradios.com.ar/833_Putumayo_32000.aac
 #EXTINF:-1,Clásica para Meditar
 http://buecrplb01.cienradios.com.ar/1002_Clasica_Para_Meditar_32000.aac
-#EXTINF:-1,Folklore
-http://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
-#EXTINF:-1,Rock Nacional
-http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
-#EXTINF:-1,Costumbres Argentinas
-http://buecrplb01.cienradios.com.ar/1292_Costumbres_Argentinas_32000.aac
-#EXTINF:-1,80's Nacional
-http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
-#EXTINF:-1,Soda Stereo y Art Rel
-https//buecrplb01.cienradios.com.ar/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
-#EXTINF:-1,Romántica 70's
-http://buecrplb01.cienradios.com.ar/628_Romantica_70_32000.aac
 #EXTINF:-1,Bossa Nova
 http://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
 #EXTINF:-1,Jazz
 http://buecrplb01.cienradios.com.ar/681_Jazz_32000.aac
 #EXTINF:-1,Blend
 http://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
+#EXTINF:-1,Folklore
+http://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
 #EXTINF:-1,Grandes del Rock
 http://buecrplb01.cienradios.com.ar/662_Grandes_Del_Rock_32000.aac
 #EXTINF:-1,Vinilo
@@ -129,6 +119,22 @@ http://buecrplb01.cienradios.com.ar/794_Lentos_32000.aac
 http://buecrplb01.cienradios.com.ar/1399_Rocktambulo_32000.aac
 #EXTINF:-1,Retromix
 http://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+#EXTINF:-1,Rock Nacional
+http://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+#EXTINF:-1,Costumbres Argentinas
+http://buecrplb01.cienradios.com.ar/1292_Costumbres_Argentinas_32000.aac
+#EXTINF:-1,80's Nacional
+http://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+#EXTINF:-1,80's y 90's Nacional
+http://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+#EXTINF:-1,Soda Stereo y Art Rel
+http://buecrplb01.cienradios.com.ar/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
+#EXTINF:-1,80's Nacional e Internacional
+http://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+#EXTINF:-1,90's Nacional e Internacional
+http://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+#EXTINF:-1,Romántica 70's
+http://buecrplb01.cienradios.com.ar/628_Romantica_70_32000.aac
 #EXTINF:-1,70's Internacional
 http://buecrplb01.cienradios.com.ar/613_70_Internacional_32000.aac
 #EXTINF:-1,80's y 90's Internacional
